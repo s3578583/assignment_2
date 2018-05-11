@@ -1,0 +1,5 @@
+{cas001, James, Fisher, 1 Lake Street Victoria 3000, jamesf@gmail.com, 03 8000 0000,852000000}
+{cas002, Pete, Pickles, 2 Lake Street Victoria 3004, pete@gmail.com, 03 8000 0001,852000001}
+{cas003, Jessie, Piper, 3 Lake Street Queensland 4870, jessie@gmail.com, 03 8000 0002,852000002}
+{cas004, Rachael, Jones, 4 Lake Street Queensland 4102, rachael@gmail.com, 03 8000 0003,852000003}
+{cas006,Olivia,Jones,1 Park Place,olivia@gmail.com,03 8000 6500,856544333}

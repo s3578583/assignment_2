@@ -1,0 +1,3 @@
+{s001, IT teacher, full-time, You will be required to teach an intro to IT class.}
+{s002, Security teacher, full-time, You will be required teach and mark assignments.}
+{s003, Software Engineering Fundamentals Teacher, casual, You must have an HD in this subject to teach it.}

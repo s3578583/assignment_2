@@ -1,0 +1,4 @@
+{sec100, Security in Computing, 102.0, 12,}
+{comp100, Computing, 18.0, 2,}
+{prog100, Programming 1, 150.0, 8,}
+{sec101, Security in Operations, 200.0, 12,}

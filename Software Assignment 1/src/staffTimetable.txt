@@ -1,0 +1,4 @@
+{staffID:cas001,courseID:sec100,$mon<0930-1130><1530-1730>$wed<1030-1130>,]}
+{staffID:cas001,courseID:sec102,$mon<1230-1330>$wed<1330-1530>$fri<1330-1530>,]}
+{staffID:cas002,courseID:prog100,$mon<1230-1330>$wed<1330-1530>$fri<1330-1530>,]}
+{staffID:cas003,courseID:sec101,$mon<1230-1330>$wed<1330-1530>$fri<1330-1530>,]}

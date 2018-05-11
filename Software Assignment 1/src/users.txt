@@ -1,0 +1,6 @@
+User login Details
+Username password type_of_user staffID
+a1 1234 admin ad001
+app1 9999 approval ap001
+c1 5678 casual cas001
+cou1 3333 course cour001
